@@ -4,7 +4,7 @@
 
 This app provides a clean UI without excess functionality for creating, reading, updating and deleting notes.
 
-<img src="Develop\note-taker-scrnshot.png/" >
+<img src="note-taker-scrnshot.png/" >
 
 
 ## Installation
